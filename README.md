@@ -1,9 +1,10 @@
-# GO_MITTE
-
+![Alt text](/IMG/logoentidade.gif?raw=true "Mitte")
+# GO_MITTE 
 
 ## Política de Privacidade
 
-- Esta extensão não coleta nem armazena informações pessoais dos usuários. 
+- Esta extensão não coleta nem armazena informações pessoais dos usuários.
+- Esta extensão é exclusiva para equipe Mitte e não está listada.
 - A permissão para o histórico do navegador é somente para que os acessos anteriores aos setups da Mitte possam ser listados na extensão facilitando retomar o acesso. 
 - Não há informações sensíveis capturadas nem geradas nos processos desta extensão. 
 - Existe tratamento adequado no campo input para evitar caracteres indesejados. 
