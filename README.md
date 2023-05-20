@@ -1,4 +1,4 @@
-![Alt text](/IMG/logoentidade.gif?raw=true "Mitte")
+![MITTE](https://raw.githubusercontent.com/DjayselPessoa/GO_MITTE/main/IMG/logoentidade.gif?raw=true "Mitte")
 # GO_MITTE 
 
 ## Política de Privacidade
