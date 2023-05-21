@@ -12,7 +12,7 @@
 
 Sua segurança sempre em primeiro lugar.
 
-### ***Para qualquer dúvida ou esclarecimento, entre em contato enviando email para [djaysel@gmail.com](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) com o assunto "GO_MITTE extensão".***
+### ***Para qualquer dúvida ou esclarecimento, entre em contato enviando email para [DjPessoa](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) com o assunto "GO_MITTE extensão".***
 
 Caso possua alguma sugestão utilize o email acima citado.
 
@@ -32,7 +32,7 @@ Em atualizações futuras novas funções poderão ser ativadas, contudo toda e 
 
 Your safety always comes first.
 
-### ***For any questions or clarifications, contact us by sending an email to [djaysel@gmail.com](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) with the subject "GO_MITTE extension".***
+### ***For any questions or clarifications, contact us by sending an email to [DjPessoa](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) with the subject "GO_MITTE extension".***
 
 If you have any suggestions, use the email mentioned above.
 
