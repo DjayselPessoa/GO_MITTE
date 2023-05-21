@@ -12,13 +12,13 @@
 
 Sua segurança sempre em primeiro lugar.
 
-### ***Para qualquer dúvida ou esclarecimento, entre em contato enviando email para djaysel@gmail.com com o assunto "GO_MITTE extensão".***
+### ***Para qualquer dúvida ou esclarecimento, entre em contato enviando email para [djaysel@gmail.com](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) com o assunto "GO_MITTE extensão".***
 
 Caso possua alguma sugestão utilize o email acima citado.
 
 Em atualizações futuras novas funções poderão ser ativadas, contudo toda e qualquer permissão extra será devidamente informada.
 
-@DjPess
+[@DjPess](https://github.com/user/repo/blob/branch/other_file.md)
 
 ---
 
@@ -32,10 +32,10 @@ Em atualizações futuras novas funções poderão ser ativadas, contudo toda e 
 
 Your safety always comes first.
 
-### ***For any questions or clarifications, contact us by sending an email to djaysel@gmail.com with the subject "GO_MITTE extension".***
+### ***For any questions or clarifications, contact us by sending an email to [djaysel@gmail.com](mailto:djaysel@gmail.com?subject=[GitHub]%20Chrome%20GO_MITTE%20extension) with the subject "GO_MITTE extension".***
 
 If you have any suggestions, use the email mentioned above.
 
 In future updates, new functions may be activated, however any and all extra permissions will be duly informed.
 
-@DjPess
+[@DjPess](https://github.com/user/repo/blob/branch/other_file.md)
